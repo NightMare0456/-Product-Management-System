@@ -1,0 +1,3 @@
+102,Chicken,Meat,Nasim Farmhouse,100,kg,260,16-05-2026,17-05-2026
+103,Apple,Fruits,Nasim Farmhouse,100,pcs,450,16-05-2026,20-05-2026
+105,Coke Cola,Drinks,Coke Company,160,ltr,80,17-05-2026,18-06-2026
